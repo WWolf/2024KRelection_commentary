@@ -1,6 +1,7 @@
 # 2024년 4월 10일 총선 선거결과
 
 개표단위별 개표결과를 [중앙선거관리위원회 선거통계시스템](http://info.nec.go.kr)에서 crawling해서 tab-delimited table format로 정리했습니다. 전국을 모두 포괄합니다.
+(써보시고 무언가 작업하셨다면, acknowledgement도 감사하지만 Issue page이든 분석결과 좌표를 알려주시면 감사하겠습니다)
 
 * [비례대표 테이블](2024_비례.tsv)
 
