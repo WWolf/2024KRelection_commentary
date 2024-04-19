@@ -71,7 +71,7 @@
 
 이제 선거결과를 살펴볼 때입니다. 이 때, 다른 회사들의 경우에 민주당후보나 국민의힘후보가 없는 지역구들을 제외해야해서, 결과적으로는 **256개의 여론조사결과**를 바탕으로 다음의 그래프를 만들 수 있었습니다:
 
-![image](https://github.com/WWolf/2024KRelection_commentary/assets/531000/977e94bd-32fd-4ee2-bced-243cc81990e3)
+![image](https://github.com/WWolf/2024KRelection_commentary/assets/531000/d505672b-d032-411f-8abc-c0ee5d743e78)
 
 이 그래프에서 눈에 띄는 것은 (잠정적입니다),
 
