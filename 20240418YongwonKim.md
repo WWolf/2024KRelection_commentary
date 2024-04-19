@@ -8,6 +8,7 @@
 예를 들어서 성남 분당구갑 조사만 하더라도, 한국리서치는 명목결과로만 민주당후보에 13%p나 높은 지지율을 공표하고 있습니다:
 
 <img width="824" alt="image" src="https://github.com/WWolf/2024KRelection_commentary/assets/531000/21f2ab33-3eb1-46f4-a765-5d70e29ce09b">
+(여론조사 [여론M 사이트](https://poll-mbc.co.kr/poll2024/)에서 캡쳐)
 
 이에 비하면 여론조사꽃의 5.4%p(+6.6%p)는 작은 숫자라고 느껴질 정도입니다.
 
