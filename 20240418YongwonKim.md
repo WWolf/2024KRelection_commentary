@@ -1,6 +1,4 @@
-# Motivation
-
-# 여론조사꽃은 특별하게 많이 틀렸는가?
+# Motivation - 여론조사꽃은 특별하게 많이 틀렸는가? 그렇다면, 추츨틀이나 조사방법의 차이는 어떠한가?
 
 (현재 소소하게 수정하고 있지만, 그래프들과 테이블에 사용된 데이터는 제일 아래 tab-delimited file링크로 제공하고 있습니다. 직접 확인해주시고, 만약 문제점이 발견되면 https://github.com/WWolf/2024KRelection_commentary/issues 에 이슈를 내주시길 바랍니다)
 
