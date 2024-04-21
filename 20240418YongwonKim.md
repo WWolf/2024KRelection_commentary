@@ -134,7 +134,7 @@
 
 또한 많은 지역여론조사에서 물어본 투표의지 등 세부 지표들이 선거결과를 좀더 잘 예측하는지, 각종 여론조사들이 민주당후보 편향결과를 보정할만한 단서들을 갖고 있었는지 살펴봐야할 것 같습니다. 김영원교수님께서도 "보다 정교한 분석을 위해 학술논문에서는 로그-오즈비 형식의 척도를 많이 사용합니다."라고 말씀하셨습니다. 이 점 (정교한 분석) 전문가분들의 분석을 기다립니다 (시의성때문에 급히 확인해봤습니다).
 
-![image](https://github.com/WWolf/2024KRelection_commentary/assets/531000/084ea328-6c3c-4c2f-87f3-1eecd3b24249)
+![image](https://github.com/WWolf/2024KRelection_commentary/assets/531000/8248654e-6dcc-442f-b3e2-3a46f75eb93f)
 
 김영원교수님의 설명에 따라 log-odds ratio graph도 첨부합니다.
 
