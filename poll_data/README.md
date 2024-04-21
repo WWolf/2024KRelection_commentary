@@ -12,6 +12,8 @@
 * 일부 여론조사는 지역구조사와 비례조사나 다른 현안조사가 쪼개서 여심위 게시판에 다른 시점에 등록됐는데, 가장 빠른 등록일을 기준으로 결합하려고 했습니다.
 * 일부 여론조사에서 여론M에서 제시된 조사시작시점이 여심위와 다르게 (하루차이) 되어 있는 경우가 있었습니다.
 
+### 현재 게시파일들
+
 * [MBC_polls.rds](MBC_polls.rds): R의 RDS형식으로 중앙선거여론조사심의위원회의 메타정보들이 붙임으로 들어가 있습니다.
 * [MBC_polls_longform.tsv](MBC_polls_longform.tsv): 후보자/정당/여조지지율을 long-form으로 붙인 것입니다.
 * [MBC_polls_longform.tsv](MBC_polls_wideform.tsv): [선거결과형식](../election_data/2024_지역구_wideform_partyonly.tsv)과 마찬가지로 정당만 뽑았으며, 무소속후보는 개인이 한 정당으로 처리했습니다.
