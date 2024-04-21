@@ -16,7 +16,7 @@
 
 * [MBC_polls.rds](MBC_polls.rds): R의 RDS형식으로 중앙선거여론조사심의위원회의 메타정보들이 붙임으로 들어가 있습니다.
 * [MBC_polls_longform.tsv](MBC_polls_longform.tsv): 후보자/정당/여조지지율을 long-form으로 붙인 것입니다.
-* [MBC_polls_longform.tsv](MBC_polls_wideform.tsv): [선거결과형식](../election_data/2024_지역구_wideform_partyonly.tsv)과 마찬가지로 정당만 뽑았으며, 무소속후보는 개인이 한 정당으로 처리했습니다.
+* [MBC_polls_longform.tsv](MBC_polls_wideform.tsv): [선거결과형식](../election_data/)과 마찬가지로 정당만 뽑았으며, 무소속후보는 개인이 한 정당으로 처리했습니다.
 
 본 자료들은 여론M에서, AAPOR응답률을 계산하는데 필요한 접촉률을 뽑기 위해서 작업하다가 나온 산출물입니다. 각종 집계자료들의 무결성이나 기타 법적권리들은 모두 여론M과 중앙선거여론조사심의위원회에 문의해주세요.
 
